@@ -13,7 +13,8 @@
 /* ------------index page & recipes------------ */
 body {
     width: 850px;
-    margin: 0 auto;
+    margin: 10px auto;
+    background-color: yellow;
 }
 h1 {
     text-align: center;
@@ -29,13 +30,13 @@ h1 {
 div {
     border: 2px solid black;
     padding: 20px;
-    
-    background-color: yellow;
-}
+    background-color: white;
+    margin-bottom: 10px;
+    }
 
 div.Buttons{
     border: none;
-    background-color: white;
+    padding-top: 75px;
 }
 
 button {
